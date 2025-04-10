@@ -1,6 +1,5 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
-import { FiShoppingCart } from "react-icons/fi";
 import { BsWatch } from "react-icons/bs";
 import { useAuth } from "../../context/auth";
 import toast from "react-hot-toast";
